@@ -2,3 +2,4 @@
 eureka   : 8091
 user     : 8092
 resource : 8093
+ribbon   : 8094
