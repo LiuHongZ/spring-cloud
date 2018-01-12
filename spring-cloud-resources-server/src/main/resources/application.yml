@@ -4,6 +4,6 @@ eureka:
       defaultZone: http://localhost:8091/eureka/
 spring:
   application:
-    name: user-server
+    name: resources-server
 server:
-  port: 8092
+  port: 8093
